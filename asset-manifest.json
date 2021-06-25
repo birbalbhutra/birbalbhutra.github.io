@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/birbalbhutra.github.io/static/css/main.78a763ae.chunk.css",
+    "main.js": "/birbalbhutra.github.io/static/js/main.c39944cc.chunk.js",
+    "main.js.map": "/birbalbhutra.github.io/static/js/main.c39944cc.chunk.js.map",
+    "runtime-main.js": "/birbalbhutra.github.io/static/js/runtime-main.39fbd1d5.js",
+    "runtime-main.js.map": "/birbalbhutra.github.io/static/js/runtime-main.39fbd1d5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/birbalbhutra.github.io/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.96113abe.chunk.js": "/birbalbhutra.github.io/static/js/2.96113abe.chunk.js",
+    "static/js/2.96113abe.chunk.js.map": "/birbalbhutra.github.io/static/js/2.96113abe.chunk.js.map",
+    "index.html": "/birbalbhutra.github.io/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/birbalbhutra.github.io/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.78a763ae.chunk.css.map": "/birbalbhutra.github.io/static/css/main.78a763ae.chunk.css.map",
+    "static/js/2.96113abe.chunk.js.LICENSE.txt": "/birbalbhutra.github.io/static/js/2.96113abe.chunk.js.LICENSE.txt",
+    "static/media/BirbalBhutra1.39df3666.jpg": "/birbalbhutra.github.io/static/media/BirbalBhutra1.39df3666.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39fbd1d5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.96113abe.chunk.js",
+    "static/css/main.78a763ae.chunk.css",
+    "static/js/main.c39944cc.chunk.js"
+  ]
+}
