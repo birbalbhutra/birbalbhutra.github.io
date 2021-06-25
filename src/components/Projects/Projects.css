@@ -1,0 +1,106 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(131, 60, 60, 0.2);
+  transition: 0.3s;
+  width: 30%;
+}
+
+#card {
+  background-color: #d48e54;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(199, 190, 190, 0.3);
+}
+
+img {
+  width: 100%;
+}
+
+.projects {
+  margin: 5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.title {
+  text-align: center;
+  color: rgb(98, 27, 139);
+  padding: 3%;
+  margin: 3%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.description {
+  text-align: center;
+  color: rgb(71, 5, 109);
+  padding-left: 7%;
+  padding-right: 7%;
+  padding-bottom: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.projects-button {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  background-color: rgb(193, 130, 223);
+  border: 1px solid #700874;
+  padding: 5px;
+}
+
+.projects-button:hover {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  color: white;
+  background-color: #500064;
+  border: 1px solid #b364c7;
+  padding: 5px;
+}
+
+.project-link {
+  color: rgb(151, 0, 221);
+  text-decoration: none;
+}
+
+.project-link:hover {
+  text-decoration: none;
+  color: rgb(192, 108, 231);
+}
+
+@media screen and (min-width: 1100px) {
+  .card {
+    width: 30%;
+    margin: 5%;
+  }
+  .projects {
+    margin: 5%;
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@media screen and (max-width: 1100px) and (min-width: 630px) {
+  .card {
+    width: 40%;
+    margin: 5%;
+  }
+  .projects {
+    margin: 5%;
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .card {
+    width: 70%;
+    margin: 5%;
+  }
+  .projects {
+    margin: 5%;
+    display: flex;
+  }
+}
